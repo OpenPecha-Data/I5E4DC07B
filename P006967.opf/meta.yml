@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18491
   title: བདེ་སྨོན་གྱི་འགྲེལ་པ་ཐར་ལམ་བགྲོད་པའི་ཐེམ་སྐས།
-  volume: ''
+  volume:
+    25b93dab0d814e38b587e899d32b9fde:
+      image_group_id: I1KG18511
+      title: Volume 1 of bde smon gyi 'grel pa thar lam bgrod pa'i them skas/
+      volume_number: 1
+      total_pages: 618
   author: ''
+ebook_metadata:
+  title: བདེ་སྨོན་གྱི་འགྲེལ་པ་ཐར་ལམ་བགྲོད་པའི་ཐེམ་སྐས།
+  author: ''
+  sku: P006967
+  cover: cover.jpg
+  layers:
+  - pagination
